@@ -1,4 +1,4 @@
-The purpose of this dataset is to support a Final Year Project focused on British Sign Language (BSL) number and alphabet recognition. The project is part of a Computer Science with Artificial Intelligence degree programme at Brunel University London.
+The purpose of this dataset is to support a Final Year Project focused on British Sign Language (BSL) number and alphabet recognition in live video. The project is part of a Computer Science with Artificial Intelligence degree programme at Brunel University London.
 
 The dataset comprises the following contents:
 
