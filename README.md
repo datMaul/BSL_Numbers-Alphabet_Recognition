@@ -1,5 +1,18 @@
 The purpose of this dataset is to support a Final Year Project focused on British Sign Language (BSL) number and alphabet recognition in live video. The project is part of a Computer Science with Artificial Intelligence degree programme at Brunel University London.
 
+Requirements:
+
+* Python, v:3.11.8
+* Opencv-python (cv2), v:4.9.0
+* MediaPipe, v:0.10.9
+* Numpy, v:1.26.4
+* Pandas, v:2.2.1
+* Seaborn, v:0.13.2
+* Matplotlib, v:3.8.3
+* Scikit-learn (Sklearn), v1.4.1.post1
+* Pickle
+* Pathlib
+
 The dataset comprises the following contents:
 
 * A Python Notebook is utilised to capture images for the dataset.
